@@ -2,7 +2,7 @@
 ## Title: KhiroksyUI
 ## Author: Mario Khiroksy
 ## Notes: Custom UI updates
-## Version: 1.0.1
+## Version: 1.0.4
 ## SavedVariables: KhiroksyUI_DB
 ## Dependencies: oUF
 
