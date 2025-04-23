@@ -1,0 +1,22 @@
+## Interface: 110100
+## Title: KhiroksyUI
+## Author: Mario Khiroksy
+## Notes: Custom UI updates
+## Version: 1.0.0
+## SavedVariables: KhiroksyUI_DB
+## Dependencies: oUF
+
+# Core
+Core.lua
+
+# Options System
+Modules/Options.lua
+Modules/Options/Utilities.lua
+Modules/Options/RaidFrames.lua
+
+# Raid Frames Module
+Modules/RaidFrames.lua
+Modules/RaidFrames/Utilities.lua
+Modules/RaidFrames/Elements.lua
+Modules/RaidFrames/Style.lua
+Modules/RaidFrames/Rebuild.lua
